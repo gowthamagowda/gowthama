@@ -26,7 +26,7 @@ body{
 }
 
 .heading span{
-    color: green;
+    color: blue;
 }
 
 .title{
@@ -39,7 +39,7 @@ body{
 }
 
 .title span{
-    color: green;
+    color: blue;
 }
 
 .head{
@@ -51,7 +51,7 @@ body{
     color: #fff;
 }
 .head span{
-    color: green;
+    color: blue;
 }
 .pro{
     text-align: center;
@@ -62,7 +62,7 @@ body{
     color: #fff;
 }
 .pro span{
-    color: green;
+    color: blue;
 }
 header{
     position:fixed;
@@ -116,7 +116,7 @@ header .nv ul li a{
     text-decoration: none;  
 }
 header .nv ul li a:hover{
-    background-color:yellowgreen;
+    background-color:green;
 }
 
 .Details .Row{
@@ -135,7 +135,7 @@ header .nv ul li a:hover{
 
 .Details .Row .det h3{
     font-size: 2rem;
-    color: green;
+    color: blue;
     padding: 1rem 0;
     font-weight: normal;
 }
@@ -145,7 +145,7 @@ header .nv ul li a:hover{
     padding: 0. 5rem;
 }
 table,th,td{
-    border: 1px solid green;
+    border: 1px solid blue;
     border-collapse: collapse;
 }
 td{
