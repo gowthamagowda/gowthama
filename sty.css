@@ -39,7 +39,7 @@ body{
 }
 
 .title span{
-    color: yellow;
+    color: green;
 }
 
 .head{
@@ -51,7 +51,7 @@ body{
     color: #fff;
 }
 .head span{
-    color: yellow;
+    color: green;
 }
 .pro{
     text-align: center;
@@ -62,7 +62,7 @@ body{
     color: #fff;
 }
 .pro span{
-    color: yellow;
+    color: green;
 }
 header{
     position:fixed;
@@ -135,7 +135,7 @@ header .nv ul li a:hover{
 
 .Details .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: green;
     padding: 1rem 0;
     font-weight: normal;
 }
@@ -145,7 +145,7 @@ header .nv ul li a:hover{
     padding: 0. 5rem;
 }
 table,th,td{
-    border: 1px solid yellow;
+    border: 1px solid green;
     border-collapse: collapse;
 }
 td{
